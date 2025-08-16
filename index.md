@@ -6,6 +6,13 @@ hide: true
 
 Hi! My name is 😊 Aaryav Lal 
 
+### About Me
+
+I really love coding and I've been doing it for a while now, super excited for this class!
+
+Here is my <a href="https://github.com/aaryavlal">Github</a>
+
+
 ### Development Environment
 
 > Coding starts with tools, explore these tools and procedures with a click.
