@@ -1,7 +1,9 @@
 ---
+layout: base
 title: "Installation Hack: Welcome to Your OS & Tools Setup"
 date: 2025-09-09
 categories: [Setup, Guide, Linux, Windows, Tools]
+permalink: /setup
 ---
 
 # 🚀 Installation Hack: Welcome to Your Journey!
