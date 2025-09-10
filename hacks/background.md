@@ -90,7 +90,7 @@ permalink: /background
 
     // GameWorld manages everything: canvas, objects, and animation
     class GameWorld {
-      static gameSpeed = 5; // Controls how fast things move
+      static gameSpeed = 200; // Controls how fast things move
       constructor(backgroundImg, spriteImg) {
         // Set up the canvas size and position
         this.canvas = document.getElementById("world");
