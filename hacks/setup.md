@@ -12,21 +12,24 @@ Setting up your Operating System and developer tools is the first step to succes
 
 ---
 
+Beginner Friendly guide
+
 ## 🖼️ Visual Workflow
 
 1. **Open Windows Terminal**
+   WINDOWS KEY + "R" -> type cmd 
 2. **Install WSL**
    ```powershell
    wsl --install
    ```
 3. **Launch Ubuntu Terminal**
-   ```powershell
+   WINDOWS KEY + "R" -> type cmd 
    wsl
    ```
 4. **Linux Commands**
    - `mkdir`, `cd`, `ls`
 5. **Clone Project**
-   - `git clone https://github.com/Open-Coding-Society/student.git`
+   - `git clone https://github.com/Open-Coding-Society/student.git` (Clone your own Repo)
 6. **Activate Tools**
    - Ruby, Python, Git
 7. **SDLC Workflow**
@@ -144,10 +147,10 @@ git config --global --list
 
 ## 🔁 Restarting a Terminal
 
-Each time you open a new Ubuntu terminal session:
+Each time you open a new Ubuntu terminal session, go back to your directory :
 ```bash
 cd opencs/student
-source venv/bin/activate
+source venv/bin/activate 
 code .
 ```
 
