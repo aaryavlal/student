@@ -139,6 +139,10 @@ code .
 
 This activates your virtual environment and opens the project in VS Code.
 
+### Framework
+
+[Link to Framework Issue](https://github.com/aaryavlal/student/issues/3)
+
 ### Homeworks Complete 
 
 3.1 Variables
