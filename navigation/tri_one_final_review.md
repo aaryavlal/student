@@ -220,6 +220,10 @@ Our team, the Encryptors, worked together on the CyberSecurity submodule for *Di
 
 While it was a little less engaing with our group due to technicalities, we recieved some good feedback comments. Some of these were basic ones like "cool game", but others really showed us what we were missing. Some people straight up said it was too complicated to understand, but showed interest in our presentation. Overall, it went ok for our specific group as we presented in the last order, so a lot of the visitors broke off. 
 
+## What Do I want to Work on in Digital Famine
+
+One thing I want to improve moving forward is making the system easier for the average person to use so they feel comfortable interacting with it. Some parts are still too technical or complicated, and simplifying the design, instructions, and flow would help people understand what they are doing without feeling overwhelmed. I also want to create a clearer and more consistent style across all the submodules. Right now, each level feels separate, with different approaches and no real connection in the skills being taught. Strengthening that sense of continuity would make the entire experience more organized and easier to follow. My goal is to create a smoother learning path where users feel like they are building on what they learned, not restarting each time.
+
 ## What Do I want To Learn Next
 
 Even though I’ve worked with machine learning before, I’ve never really taken a full, focused deep dive into it. With how quickly AI has taken off, I genuinely believe new programmers should be taught the fundamentals early on so they understand what’s actually happening behind the scenes. It’s not just about using AI tools, but knowing the principles that make them work, which helps people think more clearly about their advantages and limitations. Learning these ideas now makes it much easier to keep up as the technology changes, instead of scrambling to catch up later. As AI continues to grow, having that foundation will matter more and more for anyone entering the field.
