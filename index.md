@@ -8,7 +8,7 @@ Hi! My name is [Your Full Name]
 
 ### Development Environment
 
-> Coding starts with tools, explore these tools and procedures with a click.
+> Coding starts with tools — explore these tools and procedures with a click.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/Open-Coding-Society/student">
@@ -29,16 +29,16 @@ Hi! My name is [Your Full Name]
 
 ### Class Progress
 
-> Here is my progress through coding, click to see these online
+> Here is my progress through coding — click to see these online
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #00CC00; color: black; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
             Snake Game
         </div>
     </a>
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #DD0000; color: white; padding: 10px 20px; border-radius: 6px; font-weight: bold;">
             Turtle
         </div>
     </a>
